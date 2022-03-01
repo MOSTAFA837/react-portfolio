@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d1dd547.css",
+    "main.js": "/static/js/main.5d54e1e6.js",
+    "static/media/logo.jpg": "/static/media/logo.78af85f855f997629bce.jpg",
+    "static/media/about04.png": "/static/media/about04.fa7b3a72ed32b0e25bfb.png",
+    "static/media/about02.png": "/static/media/about02.7a3df03410ee756268ec.png",
+    "static/media/about01.png": "/static/media/about01.080509de05322b7aafda.png",
+    "static/media/about03.png": "/static/media/about03.c26c2547bb1a423cf283.png",
+    "static/media/mobile.png": "/static/media/mobile.145d9ce0157a56f8fcd8.png",
+    "static/media/email.png": "/static/media/email.37b9e890eea501421fbf.png",
+    "static/media/mongodb-logo-svgrepo-com.svg": "/static/media/mongodb-logo-svgrepo-com.fd82554bd307566edfca0c32271a894e.svg",
+    "static/media/react-svgrepo-com.svg": "/static/media/react-svgrepo-com.fdd3331d261ad6d5e1c92448737aa2aa.svg",
+    "static/media/sanity-svgrepo-com.svg": "/static/media/sanity-svgrepo-com.57d134d4adf542e0b6b049649ca456ff.svg",
+    "static/media/redux-svgrepo-com.svg": "/static/media/redux-svgrepo-com.609190d142776d97540d56376fce6a2c.svg",
+    "static/media/sass-svgrepo-com.svg": "/static/media/sass-svgrepo-com.3b0c24f0b91beef690074ec585746041.svg",
+    "static/media/javascript-svgrepo-com.svg": "/static/media/javascript-svgrepo-com.fd46ca41839433d73577989d86eb2fe2.svg",
+    "static/media/node-svgrepo-com.svg": "/static/media/node-svgrepo-com.5e645e90af41ff96310fe300db55bcd5.svg",
+    "static/media/express-svgrepo-com.svg": "/static/media/express-svgrepo-com.e0be243e017ae97d906bf5f755016047.svg",
+    "static/media/github-svgrepo-com.svg": "/static/media/github-svgrepo-com.6b128a9af225878ee620c71c4ccf182b.svg",
+    "index.html": "/index.html",
+    "static/media/circle.svg": "/static/media/circle.cc689ef2250c7bfe59f1973dce0e76ab.svg",
+    "static/media/html5-svgrepo-com.svg": "/static/media/html5-svgrepo-com.84c6adac417775a66b5529f1ae8d4572.svg",
+    "static/media/css3-svgrepo-com.svg": "/static/media/css3-svgrepo-com.9882e252f3baf8b8d57642a1384d8ba3.svg",
+    "static/media/tailwind-svgrepo-com.svg": "/static/media/tailwind-svgrepo-com.d22b29a2028c438a02033f41d11e899b.svg",
+    "main.1d1dd547.css.map": "/static/css/main.1d1dd547.css.map",
+    "main.5d54e1e6.js.map": "/static/js/main.5d54e1e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d1dd547.css",
+    "static/js/main.5d54e1e6.js"
+  ]
+}
